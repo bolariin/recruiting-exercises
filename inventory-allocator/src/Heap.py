@@ -1,5 +1,3 @@
-from collections import OrderedDict
-
 class Heap:
     """
         Based on heap implementation from 
@@ -75,5 +73,6 @@ class Heap:
             else:
                 total -= amount
                 shipment[warehouse].update({ itemName: amount })
+
 
 

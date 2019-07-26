@@ -1,4 +1,6 @@
-
+## Testing
+* cd src
+* Run `python InventoryAllocatorTest.py` or `python3 InventoryAllocatorTest.py` or `py InventoryAllocatorTest.py`
 
 ### Problem
 
